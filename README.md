@@ -1,4 +1,4 @@
-# React-Banner
+# React-Infinite-Pure-Banner
 The below shows How I solve the problem. I describe it in 2 (Task, Solution) or 3 (Task, Problems, Solution) steps. 
 <h3>Scripts</h3>
 git clone && npm install && npm run start</br></br>
