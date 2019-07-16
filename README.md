@@ -1,5 +1,7 @@
 # React-Banner
-The below shows How I solve the problem. I describe it in 2 (Task, Solution) or 3 (Task, Problems, Solution) steps. Execute the code "npm run start"</br></br>
+The below shows How I solve the problem. I describe it in 2 (Task, Solution) or 3 (Task, Problems, Solution) steps. 
+<h3>Scripts</h3>
+git clone && npm install && npm run start</br></br>
 <hr/>
 <h3>1. Infinite Scroll Loop Carousel</h3></hr>
 <h4>&emsp;How to make the first slide appear again after the last slide?</h4>
