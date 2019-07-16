@@ -157,7 +157,10 @@ class Carousel extends React.Component {
     }
 
     render(){
-        const { activeIndex, totalLen, sliding, direction, isUp, event_, width, companyList_RC} = this.state;
+        const activeIndex = this.state.activeIndex;
+        const direction = this.state.direction;
+        const event_ = this.state.event_;
+        const width = this.state.width;
         const isMobile = width <= 768;
 
 
