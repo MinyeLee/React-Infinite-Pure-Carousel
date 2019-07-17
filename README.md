@@ -4,7 +4,7 @@ The below shows How I solve the problem. I describe it in 2 (Task, Solution) or 
 git clone && npm install && npm run start</br></br>
 <hr/>
 <h3>1. Infinite Scroll Loop Carousel</h3></hr>
-<h4>&emsp;How to make the first slide appear again after the last slide?</h4>
+<h4>&emsp;How to make the first slide appear again after the last slide? (Incomplete)</h4>
 <ul>  
 <li>&emsp;<strong>Reordering arrays</strong> : Set the ‘order’ to the elements inside the array ‘Company_RC’ and Identify which items have changed. Use this ‘order’ for Keys.<br/><br/>
 <img src="https://user-images.githubusercontent.com/6896920/61291280-0f842000-a809-11e9-9537-cd8d7623d287.png" height="400px"></img>
